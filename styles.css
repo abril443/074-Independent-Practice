@@ -1,0 +1,84 @@
+.logoCenter{
+    display:flex;
+    justify-content:center;
+    background-color:#fc6203;
+}
+.RtLogo {
+    width: 200px;
+    border-radius: 25px;
+    padding: 20px;
+    width: 600px;
+    height: 150px;
+    
+}
+h2{
+    text-align:center;
+     font-family: 'Gorditas', cursive;
+}
+img {
+    width: 300px;
+}
+
+.showOne {
+    display: flex;
+    justify-content: center;
+}
+
+.showTwo {
+    display: flex;
+    justify-content: center;
+}
+
+.showThree {
+    display: flex;
+    justify-content: center;
+}
+
+.reviews{
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.reviewsTwo{
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.reviewsThree{
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+.showOne{
+    background-color: #fff0cb;
+}
+
+.showTwo{
+    background-color: #ffdede;
+}
+.showThree{
+    background-color: #95ccba;
+}
+
+.reviews{
+    background-color:#f2dca5 ;
+}
+
+.reviewsTwo{
+    background-color:#f5c4c4; 
+}
+
+.reviewsThree{
+    background-color:#c7f2e4; 
+}
+
+body {
+    background-color:#f2cc84;
+}
